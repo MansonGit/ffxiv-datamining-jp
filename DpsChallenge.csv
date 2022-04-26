@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,PlayerLevel,PlaceName,Icon,Order,Name,Description,,
-int32,uint16,PlaceName,Image,uint16,uint32,uint16,str,str
+#,PlayerLevel,,,PlaceName,Icon,Order,Name,Description
+int32,uint16,bit&01,uint16,PlaceName,Image,uint16,str,str
 0,0,False,0,0,0,1,"",""
 1,60,False,0,2089,112145,100,"木人討滅戦","揺るぎなく大地に立ち、空に気を巡らせ、海の如く雄大な心を以て戦う。古の武人の教えに従い、木人に向かい日々精進せよ！　さあ、制限時間内に木人を討滅してみせるのだ！"
 2,60,False,0,2089,112146,101,"木人討滅戦（極ビスマルク級）","再召喚された雲神「ビスマルク」との戦闘を想定した木人を用意した。極まりし力を手にした雲神を討滅するつもりなら、その前にぜひここで鍛練を積んで行ってくれ！"

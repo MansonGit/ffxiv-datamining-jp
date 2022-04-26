@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Quest,UITab,Category,,QuestRedoUISmall,QuestRedoUILarge,QuestRedoUIWide,ChapterName,ChapterPart,Transient,
-int32,Quest,QuestRedoChapterUITab,QuestRedoChapterUICategory,byte,Image,Image,Image,uint32,str,str,str
+#,Quest,,UITab,Category,,QuestRedoUISmall,QuestRedoUILarge,QuestRedoUIWide,ChapterName,ChapterPart,Transient
+int32,Quest,uint32,QuestRedoChapterUITab,QuestRedoChapterUICategory,byte,Image,Image,Image,str,str,str
 0,0,0,0,0,0,0,0,0,"","",""
 1,66060,0,1,30,1,114766,114166,114466,"新生エオルゼア 1","","神々に愛されし地「エオルゼア」に、ひとりの冒険者が降り立つ。
 求めるは力か、名誉か、富か、それとも……。

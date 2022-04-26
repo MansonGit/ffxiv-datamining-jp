@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,Member,Image{Name},BigImage{Old},BigImage{New}
-int32,ENpcResident,Image,Image,Image
+#,Member,BigImage{Old},BigImage{New},Class
+int32,ENpcResident,Image,Image,DawnMemberUIParam
 0,0,0,0,0
 1,1030660,72621,72681,1
 2,1030661,72622,72682,2
