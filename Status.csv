@@ -3113,7 +3113,7 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 3019,"ブレード・オブ・フェイス実行可","ブレード・オブ・フェイスを実行できる状態。",12519,0,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 3020,"魂の総和","幻体に計上されている魂の総数。",18101,0,16,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 3021,"防御不可","防御を使用できない状態。",14887,131,0,1,2,17,397,False,False,False,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
-3022,"徐々に睡眠","徐々に眠りつつある状態。移動速度が低下し、効果終了時に睡眠状態になる。",14888,95,0,1,2,17,437,False,False,False,False,False,False,True,False,False,150,0,False,False,0,38,True,0,False,False,0,0,0,False
+3022,"徐々に睡眠","徐々に眠りつつある状態。効果終了時に睡眠状態になる。",14888,95,0,1,2,17,437,False,False,False,False,False,False,True,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
 3023,"恐慌","恐怖で行動できなくなり、勝手に動いてしまう状態。",15552,0,0,1,2,17,410,False,False,True,False,False,False,False,False,False,150,0,False,False,0,0,True,0,False,False,0,0,0,False
 3024,"誘惑","誘惑を受け心奪われ、勝手に動いてしまう状態。",14889,0,0,1,2,17,392,False,False,True,False,False,False,False,False,False,150,0,False,False,0,4,True,0,False,False,0,0,0,False
 3025,"聖刻","敵から攻撃を受けると攻撃者のＨＰが回復する状態。",14892,0,0,20,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False

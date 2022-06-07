@@ -1144,9 +1144,9 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 1140,"穏やかな鳥との名の通り、エーテル風に乗りゆっくりと飛行していた竜星の生物。竜たちからはこの種の飛ぶ穏和な風が愛されていたという",36684,570,0,True,True,8,960,2511,True,True,True
 1141,"耳のような脚部を力強く逆立て、周囲を威嚇する。とあるレポリットがにらめっこ勝負を挑んだが、険しい顔つきに敢えなく敗退した",36685,570,0,True,True,28,960,2511,True,True,True
 1142,"その滋味から、島の港町の料理店では欠かさず供される。揚げて良し、干して良しと万能で、とある遠国の竜騎士も買い込んだとの宣伝文句だ",36686,570,0,True,True,1,957,2509,True,False,False
-1143,"",0,0,0,False,False,0,0,0,False,False,False
-1144,"",0,0,0,False,False,0,0,0,False,False,False
-1145,"",0,0,0,False,False,0,0,0,False,False,False
+1143,"川底に潜り植物の種に擬態する、使い魔向きの賢いカエル。いっとき外敵に気づかれると、種が弾けるように元気よく跳ねて逃げるという",36660,495,0,False,False,2,957,0,True,False,False
+1144,"水晶の如き輝きを持つ藻の集合体。モーグリ族のうち特にエーテルに愛された者のポンポンは、死後美しい紫色になるというが、果たして……",36662,500,0,False,False,3,400,0,True,False,False
+1145,"近東で採れる白珊瑚。イェドリマンの船乗りがこぞって一欠片を懐に忍ばせ、筆記具として用いたため、その評判は世界に知られることとなった",36663,510,0,False,False,0,957,0,True,False,False
 1146,"",0,0,0,False,False,0,0,0,False,False,False
 1147,"",0,0,0,False,False,0,0,0,False,False,False
 1148,"",0,0,0,False,False,0,0,0,False,False,False
