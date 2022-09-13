@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,,,,
-int32,str,str,uint32,uint32
+#,Name,Title,Icon,
+int32,str,str,Image,uint32
 0,"フリー","",82041,0
 1,"収穫","収穫モード",82042,0
 2,"種まき","種まきモード",82043,3
