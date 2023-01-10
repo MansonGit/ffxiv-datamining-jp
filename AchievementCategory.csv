@@ -37,9 +37,9 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 33,"園芸師",5,True,False,11
 34,"漁師",5,True,False,12
 35,"全般",8,True,False,1
-36,"リーヴ",8,True,False,2
-37,"友好部族クエスト",8,True,False,3
-38,"シーズナルイベント",8,True,True,4
+36,"リーヴ",8,True,False,4
+37,"友好部族クエスト",8,True,False,5
+38,"シーズナルイベント",8,True,True,99
 39,"探検手帳",11,True,False,1
 40,"ラノシア",11,True,False,2
 41,"黒衣森",11,True,False,3
@@ -77,3 +77,6 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 73,"イルサバード大陸",11,True,False,13
 74,"その他",11,True,False,99
 75,"マンダヴィルウェポン",4,True,False,12
+76,"メインクエスト",8,True,False,2
+77,"ジョブ／ロールクエスト",8,True,False,3
+78,"",0,False,False,0
