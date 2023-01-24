@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
-#,Quest,Text[Long],Text[Short],Text[Commentary],,Section,
-int32,Quest,uint32,str,str,str,DescriptionSection,uint32
+#,,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604480,0,0,"","","",False,0
 3604481,0,0,"","","",False,0
 3604482,0,68737,"ドマ式麻雀解説","MAHJONG","ドマ式麻雀解説",True,2

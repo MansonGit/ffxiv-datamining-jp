@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,Singular,Adjective,Plural,PossessivePronoun
-int32,uint16,uint32,uint32,uint32
+#,SGB,MapIcon,,Name
+int32,ExportedSG,Image,uint32,EObjName
 0,25422,0,0,0
 1,30825,63963,2,2013171
 2,30826,63963,2,2013172

@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,TopImage,BottomImage,FontColor,,,,,SortKey,Name
-int32,Image,Image,byte,byte,byte,byte,uint16,byte,str
+#,TopImage,BottomImage,FontColor,,,,UnlockCondition,SortKey,Name
+int32,Image,Image,byte,byte,byte,byte,BannerCondition,byte,str
 0,196001,196251,0,0,0,0,1,0,"なし"
 1,196002,196252,1,0,0,0,1,3,"半透明：ブラック"
 2,196003,196253,1,0,0,0,1,1,"グラデーション：グレー"
