@@ -1539,7 +1539,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 1508,"裂傷","風属性ダメージにより、ＨＰが徐々に失われる状態。",19021,0,16,1,2,17,0,False,False,False,False,False,False,False,False,False,10,0,False,False,100,0,False,0,False,5,False,0,0,0,False
 1509,"スロウ","オートアタックの攻撃間隔と、ウェポンスキルおよび魔法のキャストタイムとリキャストタイムが延長された状態。",15009,5,0,1,2,13,0,False,False,False,False,False,False,False,False,False,50,0,False,False,15,0,False,0,False,0,False,0,0,0,False
 1510,"睡眠","眠りに落ち、行動できなくなった状態。",15013,1,0,1,2,2,3,True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,3,0,False
-1511,"石化","手足が石化し、行動できなくなった状態。",15001,85,0,1,2,6,1,True,False,True,False,False,False,True,False,False,100,0,False,False,0,0,False,0,False,0,False,0,32,0,False
+1511,"石化","手足が石化し、行動できなくなった状態。",15001,85,0,1,2,6,1,True,False,True,False,False,False,True,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 1512,"ノックバック無効","ノックバック、および引き寄せ効果が無効になった状態。",16824,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,50,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 1513,"スタン","行動できなくなった状態。",15004,0,0,1,2,17,0,False,False,True,True,False,False,False,True,False,100,0,False,False,0,4,False,0,False,0,False,2,0,0,False
 1514,"スリル・オブ・ウォー：効果","連続してＨＰが回復している状態。",14842,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,0,False,False,1000,0,True,0,False,0,False,0,0,0,False
