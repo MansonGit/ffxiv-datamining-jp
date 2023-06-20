@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Description,Item,GatheringItemLevel,,,FishingRecordType,TerritoryType,
-int32,str,Item,GatheringItemLevelConvertTable,bit&01,byte,FishingRecordType,TerritoryType,bit&02
+#,Description,Item,GatheringItemLevel,,FishingRecordType,TerritoryType,,IsVisible
+int32,str,Item,GatheringItemLevelConvertTable,bit&01,FishingRecordType,TerritoryType,uint16,bit&02
 0,"",0,0,False,0,0,0,False
 20000,"螺旋階段のような渦巻いた姿が特徴的。殻がもろく、壊れやすいため、完全な形を保っているものは、好事家に珍重される",20144,205,False,10,0,0,True
 20001,"メスは魚体が黒いが、成長するとオスに変わり鮮やかな色合いに変化する。身を守るため、粘液毒を放出する性質も",20145,205,False,11,0,0,True

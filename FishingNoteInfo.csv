@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,,,,,
-int32,byte,byte,byte,byte,byte,byte,int32
+#,Size,AquariumWater,WeatherRestriction,TimeRestriction,SpecialConditions,IsCollectable,Item
+int32,byte,AquariumWater,byte,byte,byte,byte,Row
 0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,4776
 2,0,0,0,0,0,0,4925

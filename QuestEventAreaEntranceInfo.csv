@@ -1,6 +1,6 @@
 ﻿key,0,1,2
-#,,,
-int32,uint32,byte,uint32
+#,Quest,,Location
+int32,Quest,byte,Level
 0.0,0,0,0
 9906629.0,69602,3,8664394
 9906640.0,70000,6,8961361

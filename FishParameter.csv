@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Text,Item,GatheringItemLevel,,IsHidden,,FishingRecordType,,FishingSpot,GatheringSubCategory
-int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,byte,FishingRecordType,uint16,FishingSpot,GatheringSubCategory
+#,Text,Item,GatheringItemLevel,OceanStars,IsHidden,FishingRecordType,FishingSpot,GatheringSubCategory,IsInLog,AchievementCredit
+int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,FishingRecordType,FishingSpot,GatheringSubCategory,bit&02,uint32
 0,"",0,0,0,False,0,0,0,True,0
 1,"大きく育つ海藻。その名は1マルム(約1600m)もの長さのケルプが打ち上げられた、との言い伝えによる",4776,4,0,False,0,36,0,True,0
 2,"針がなくても釣れる、と言われるほど食欲旺盛。目の前に動く物があれば、なんでもハサミで捕らえようとする",4925,2,0,False,2,2,0,True,0
